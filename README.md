@@ -1,4 +1,7 @@
-ect utilizes a Convolutional Neural Network (CNN), specifically a Transfer Learning approach with the EfficientNetB0 model, to accurately classify and recognize various diseases in plant leaves from images. The goal is to provide a fast and automated method for early disease detection to aid farmers and agricultural experts.
+Deep Learning-based Plant Disease Recognition
+
+
+This project utilizes a Convolutional Neural Network (CNN), specifically a Transfer Learning approach with the EfficientNetB0 model, to accurately classify and recognize various diseases in plant leaves from images. The goal is to provide a fast and automated method for early disease detection to aid farmers and agricultural experts.
 
 💻 Project Overview
 Early and accurate diagnosis of plant diseases is crucial for minimizing crop loss. This project addresses this by building a highly performant image classification model using deep learning. The model is trained to distinguish between 17 different classes of plant leaf conditions, including healthy leaves and various diseases across different plant species.
